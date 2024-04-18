@@ -1,0 +1,113 @@
+index_no,station,lat,lon,elevation,district,province,station_name
+605,Baglung,28.26364,83.6,964,Baglung,4,Baglung
+1027,Bahrabise,27.78868,85.9,884,Sindhupalchok,3,Bahrabise
+102,Baitadi..Gothalapani.,29.55744,80.41,1352,Baitadi,7,Baitadi (Gothalapani)
+204,Bajura..Martadi.,29.45698,81.48,1598,Bajura,7,Bajura (Martadi)
+808,Bandipur,27.94183,84.41,991,Tanahun,4,Bandipur
+705,Bhairahawa.Airport,27.50682,83.42,108,Rupandehi,5,Bhairahawa Airport
+1052,Bhaktapur,27.67668,85.42,1315,Bhaktapur,3,Bhaktapur
+505,Bijuwar.Tar,28.10355,82.85,835,Pyuthan,5,Bijuwar Tar
+1319,Biratnagar.Airport,26.48397,87.27,72,Morang,1,Biratnagar Airport
+918,Birganj,27.0232,84.88,67,Parsa,2,Birganj
+1303,Chainpur..East.,27.2921,87.32,1277,Sankhuwasabha,1,Chainpur (East)
+299,Chainpur.Bajhang.AWS,29.54589,81.2,1405,Bajhang,7,Chainpur Bajhang AWS
+1059,Changu.Narayan,27.71606,85.43,1502,Bhaktapur,3,Changu Narayan
+810,Chapakot,27.89994,83.85,617,Syangja,4,Chapkot
+1102,Charikot,27.66667,86.05,1940,Dolkha,3,Charikot
+1316,Chatara,26.82044,87.16,105,Sunsari,1,Chatara
+513,Chaurjhari.Tar,28.65399,82.21,863,Rukum,6,Chaurjhari Tar
+1009,Chautara,27.75378,85.73,1552,Sindhupalchok,3,Chautara
+405,Chisapani.Karnali.,28.65,81.29,201,Kailali,7,Chisapani(Karnali)
+104,Dadeldhura,29.30135,80.59,1879,Dadeldhura,7,Dadeldhura
+402,Dailekh,28.83811,81.71,1394,Dailekh,6,Dailekh
+1408,Damak,26.67067,87.7,119,Jhapa,1,Damak
+905,Daman,27.6044,85.09,2265,Makwanpur,3,Daman
+817,Damauli,27.97368,84.27,347,Tanahun,4,Damauli
+107,Darchula.New,29.84496,80.55,945,Darchula,7,Darchula New
+209,Dhangadhi.Attariya.,28.81273,80.56,184,Kaliali,7,Dhangadhi(Attariya)
+1307,Dhankuta,26.98322,87.35,1192,Dhankuta,1,Dhankuta
+1311,Dharan.Bazar,26.79218,87.3,310,Sunsari,1,Dharan Bazar
+1024,Dhulikhel,27.61612,85.57,1543,Kabhre,3,Dhulikhel
+1055,Dhunche,28.10999,85.3,1993,Rasuwa,3,Dhunche
+1038,Dhunibesi,27.72312,85.16,991,Dhading,3,Dhunibesi
+1222,Diktel,27.21252,86.79,1612,Khotang,1,Diktel
+218,Dipayal..Doti.,29.2621,80.94,563,Doti,7,Dipayal (Doti)
+706,Dumkauli,27.68068,84.23,183,Nawalparasi,4,Dumkauli
+312,Dunai,28.95065,82.9,2098,Dolpa,6,Dunai
+1421,Gaida..Kankai.,26.65689,87.86,107,Jhapa,1,Gaida (Kankai)
+922,Gaur,26.7671,85.31,77,Routahat,2,Gaur
+515,Ghorai..Dang.,28.0372,82.48,663,Dang,5,Ghorai (Dang)
+1022,Godavari,27.59292,85.38,1527,Lalitpur,3,Godavari
+809,Gorkha..Birenchowk.,27.97139,84.59,724,Gorkha,4,Gorkha
+408,Gulariya,28.21279,81.35,126,Bardiya,5,Gulariya
+1114,Hardinath,26.8,85.98,93,Dhanusa,2,Hardinath
+906,Hetauda.N.F.I.,27.4227,85.03,452,Makwanpur,3,Hetauda N.F.I.
+871,Humde,28.6399,84.09,3401,MANANG,4,Humde
+1407,Ilam.Tea.Estate,26.90964,87.92,1208,Ilam,1,Ilam Tea Estate
+404,Jajarkot,28.6986,82.2,1240,Jajarkot,6,Jajarkot
+1122,Jalesor,26.65225,85.81,68,Mahottari,2,Jalesor
+1111,Janakpur.Airport,26.71075,85.92,76,Dhanusa,2,Janakpur Airport
+1103,Jiri,27.63045,86.23,1877,Dolkha,3,Jiri
+601,Jomsom,28.78401,83.73,2741,Mustang,4,Jomsom
+303,Jumla,29.27466,82.18,2363,Jumla,6,Jumla
+399,Jumla.Airport,29.27397,82.19,2384,Jumla,6,Jumla Airport
+1007,Kakani,27.81439,85.27,2030,Nuwakot,3,Kakani
+1416,Kanyam.Tea.Estate,26.86806,88.08,1570,Ilam,1,Kanyam Tea Estate
+1121,Karmaiya,27.13181,85.48,139,Sarlahi,2,Karmaiya
+1030,Kathmandu.Airport,27.70382,85.36,1337,Kathmandu,3,Kathmandu Airport
+1327,Khadbari,27.39106,87.2,1064,Sankhuwasabha,1,Khadbari
+815,Khairini.Tar,28.02696,84.09,515,Tanahun,4,Khairini Tar
+409,Khajura..Nepalganj.,28.11368,81.59,129,Banke,5,Khajura (Nepalganj)
+715,Khanchikot,27.92206,83.13,1801,Arghakhanchi,5,Khanchikot
+1073,Khokana,27.64377,85.3,1309,Lalitpur,3,Khokana
+802,Khudi.Bazar,28.28221,84.36,838,Lamjung,4,Khudi Bazar
+1029,Khumaltar,27.65175,85.33,1334,Lalitpur,3,Khumaltar
+614,Kushma,28.22494,83.68,900,Parbat,4,Kushma
+1215,Lahan,26.73284,86.48,110,Siraha,2,Lahan
+607,Lete,28.63273,83.61,2490,Mustang,4,Lete
+504,Libang.Gaun,28.3062,82.63,1314,Rolpa,5,Libang Gaun
+727,Lumbini,27.47028,83.28,95,Rupandehi,5,Lumbini
+814,Lumle,28.29654,83.82,1738,Kaski,4,Lumle
+105,Mahendra.Nagar,28.95477,80.23,197,Kanchanpur,7,Mahendra Nagar
+217,Mangalsen,29.13611,81.25,1310,Achham,7,Mangalsen
+329,Manma,29.1488,81.61,1729,KALIKOT,6,Manma
+1123,Manthali,27.3947,86.06,497,Ramechhap,3,Manthali
+1118,Manusmara,26.92801,85.45,90,Sarlahi,2,Manusmara
+514,Musikot.Rukumkot.,28.61844,82.46,1412,Rukum,6,Musikot(Rukumkot)
+1043,Nagarkot,27.69335,85.52,2147,Bhaktapur,3,Nagarkot
+308,Nagma,29.20061,81.91,2017,Kalikot,6,Nagma
+420,Nepalgunj.Airport,28.10056,81.67,165,Banke,5,Nepalgunj Airport
+416,Nepalgunj.Reg.Off..,28.05199,81.62,141,Banke,5,Nepalgunj(Reg.Off.)
+1004,Nuwakot,27.91497,85.16,966,Nuwakot,3,Nuwakot
+1206,Okhaldhunga,27.30812,86.5,1731,Okhaldhunga,1,Okhaldhunga
+220,Oli.Gaun..Patkani.,29.15594,81.28,989,Achham,7,Oli Gaun (Patkani)
+1304,Pakhribas,27.04634,87.29,1720,Dhankuta,1,Pakhribas
+1036,Panchkhal,27.6452,85.62,857,Kabhre,3,Panchkhal
+708,Parasi,27.51925,83.66,112,Nawalparasi,5,Parasi
+911,Parwanipur,27.079,84.93,87,Bara,2,Parwanipur
+103,Patan.new,29.46714,80.55,1292,Baitadi,7,Patan new
+1212,Phattepur,26.73667,86.93,83,Saptari,2,Phattepur
+1419,Phidim..Panchther.,27.14367,87.77,1157,Panchther,1,Phidim (Panchther)
+804,Pokhara.Airport,28.20018,83.98,827,Kaski,4,Pokhara Airport
+401,Pusma.Camp,28.87552,81.23,953,Surkhet,6,Pusma Camp
+1223,Rajbiraj,26.5407,86.74,68,Saptari,2,Rajbiraj
+902,Rampur,27.65403,84.35,189,Chitawan,3,Rampur
+307,Rara,29.54013,82.08,2989,Mugu,6,Rara
+1219,Salleri,27.50512,86.59,2383,Solukhumbu,1,Salleri
+511,Salyan.Bazar,28.3821,82.14,1557,Salyan,6,Salyan Bazar
+728,Semari,27.46819,83.79,110,Nawalparasi,5,Semari
+909,Simara.Airport,27.16417,84.98,137,Bara,2,Simara Airport
+311,Simikot,29.97153,81.82,2993,Humla,6,Simikot
+1107,Sindhuli.Madhi,27.21829,85.92,556,Sindhuli,3,Sindhuli Madhi
+1216,Siraha,26.65612,86.21,63,Siraha,2,Siraha
+406,Surkhet.Airport..Birendranagar.,28.58787,81.64,720,Surkhet,6,Surkhet Airport (Birendranagar)
+805,Syangja,28.09874,83.87,871,Syangia,4,Syangja
+725,Tamghas,28.0636,83.24,1547,Gulmi,5,Tamghas
+702,Tansen,27.86366,83.54,1183,Palpa,5,Tansen
+1405,Taplejung,27.35861,87.67,1744,Taplejung,1,Taplejung
+1320,Tarahara,26.69882,87.28,120,Sunsari,1,Tarahara
+716,Taulihawa,27.57108,83.07,106,Kapilbastu,5,Taulihawa
+1314,Terhathum,27.12304,87.54,1525,Terhathum,1,Terhathum
+604,Thakmarpha,28.73887,83.68,2655,Mustang,4,Thakmarpha
+207,Tikapur,28.5365,81.12,149,Kailali,7,Tikapur
+1213,Udayapur.Gadhi,26.91295,86.54,469,Udayapur,1,Udayapur Gadhi
